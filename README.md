@@ -11,5 +11,5 @@ A small project to facilitate automatically updating jellyfin libraries with new
   - `jellyfin_api_key` fill in your generated jellyfin API key here
 4) Run the webapp with `python main.py`
 5) Create a webhook connection in Sonarr / Radarr
-  - Sonarr - (Assuming the app is hosted on localhost:8085) the url is http://localhost:8085/sonarr
-  - Radarr - (Assuming the app is hosted on localhost:8085) the url is http://localhost:8085/radarr
+  - Sonarr - (Assuming the app is hosted on localhost:8085) the url is http://localhost:8085/api/sonarr
+  - Radarr - (Assuming the app is hosted on localhost:8085) the url is http://localhost:8085/api/radarr
